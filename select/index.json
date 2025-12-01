@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Flash (《时光代理人第二季》动画插曲)",
+  "base_artist": "Gorilla Attack",
+  "createdAt": "2025-12-01T05:41:39.963821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一念之间 (A Flash of Thought)",
+      "artist": "戴佩妮",
+      "has_synced": true,
+      "path": "select/01_一念之间_(A_Flash_of_Thought)_戴佩妮.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flash",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/02_Flash_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flash",
+      "artist": "Fünf Sterne Deluxe",
+      "has_synced": false,
+      "path": "select/03_Flash_Fünf_Sterne_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flash Back",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/04_Flash_Back_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Je me souviens (flash back)",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/05_Je_me_souviens_(flash_back)_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fantasy (feat. Lil Flash)",
+      "artist": "Yung Lean feat. Lil Flash",
+      "has_synced": true,
+      "path": "select/06_Fantasy_(feat._Lil_Flash)_Yung_Lean_feat._Lil_Flash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fantasy (feat. Lil Flash)",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/07_Fantasy_(feat._Lil_Flash)_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flash Delirium",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/08_Flash_Delirium_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The White Flash (feat. Thom Yorke) [Trentemøller Remix]",
+      "artist": "Modeselektor & Thom Yorke",
+      "has_synced": true,
+      "path": "select/09_The_White_Flash_(feat._Thom_Yorke)_[Trentemøller_Remix]_Modeselektor_&_Thom_Yorke.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The White Flash (Trentemøller Remix)",
+      "artist": "Modeselektor",
+      "has_synced": true,
+      "path": "select/10_The_White_Flash_(Trentemøller_Remix)_Modeselektor.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Bright Flash",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/11_This_Bright_Flash_M83.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flash A Hungry Smile",
+      "artist": "Mystery Jets",
+      "has_synced": true,
+      "path": "select/12_Flash_A_Hungry_Smile_Mystery_Jets.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flash",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/13_Flash_Queen.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flash",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/14_Flash_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flashback",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Flashback_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "flashback trip syndrome",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_02_flashback_trip_syndrome_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Flashback",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_03_Flashback_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "FLASH BACK",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_04_FLASH_BACK_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "FLASH BACK",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_05_FLASH_BACK_嵐.txt"
+    }
+  ]
+}
